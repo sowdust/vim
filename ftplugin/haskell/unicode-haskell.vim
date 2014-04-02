@@ -27,7 +27,7 @@ let s:mappedChars = {
   \ '`notElem`': '∉',
   \ 'Integer' : 'ℕ',
   \ 'Fractional' : 'ℚ',
-  \ 'Floating' : 'ℝ',
+  \ 'Float' : 'ℝ',
   \ 'Bool' : '𝔹'
   \ }
 
