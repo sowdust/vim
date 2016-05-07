@@ -1,6 +1,6 @@
 " Vim color file
 "
-" Author: Mattia Vinci
+" Author: Mattia
 "
 " Note: Based on Tomas Restrepo <tomas@winterdom.com>
 " monokai theme.
